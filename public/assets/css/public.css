@@ -1,0 +1,42 @@
+/* This stylesheet is used to style the public-facing components of the plugin. */
+.tip {
+    position: relative;
+    text-decoration: none;
+}
+.tip span {
+    display: none;
+}
+.tip:hover span {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    bottom: 15px;
+    color: #fff;
+    content: attr(title);
+    display: block;
+    font-size: 0.86em;
+    height: auto;
+    padding: 0.5em;
+    position: absolute;
+    text-align: center;
+    width: 250px;
+}
+.tip:hover span:after {
+    border-color: rgba(0, 0, 0, 0.8) transparent transparent;
+    border-style: solid;
+    border-width: 10px;
+    bottom: -16px;
+    content: "";
+    display: block;
+    height: 0;
+    left: 1em;
+    position: absolute;
+    width: 0;
+}
+.question-mark {
+    background: url("../images/i_question-mark.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 16px;
+    margin: 0 0 1px;
+    vertical-align: middle;
+    width: 16px;
+}
