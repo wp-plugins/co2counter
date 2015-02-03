@@ -1,4 +1,4 @@
-=== CO2 Offset ===
+=== CO2counter ===
 Contributors: czdigital
 Donate link: www.gaiapartnership.com
 Tags: CO2 calculator, carbon offset, CO2, carbon emissions
@@ -18,7 +18,7 @@ The unique CO2counter technology allows the offset certificate to be automatical
 
 The CO2counter makes it simple for environmentally aware merchants to offer a tangible environmental benefit within the cart for their customers. This is being used worldwide to align with the merchants own environmental polices and to satisfy the 'Green Shoppers’ requirement to buy from sustainably responsible retailers.
 
-The Gaia Partnership have arrangements in place with Climate Friendly to purchase offsets in the Tasmanian Native Forest Protection Project. For details of the offsets please visit http://gaiapartnership.com/services/page7/carbon_offsets.html.
+<a href="http://gaiapartnership.com/">The Gaia Partnership</a> have arrangements in place with Climate Friendly to purchase offsets in the Tasmanian Native Forest Protection Project. For details of the offsets please read more <a href="http://gaiapartnership.com/services/page7/carbon_offsets.html">here</a>.
 
 == Installation ==
 
