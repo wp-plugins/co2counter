@@ -1,9 +1,9 @@
 === CO2counter ===
 Contributors: czdigital
 Donate link: www.gaiapartnership.com
-Tags: CO2 calculator, carbon offset, CO2, carbon emissions
+Tags: CO2 calculator, carbon offset, CO2, carbon emissions, environmental, environmentally friendly
 Requires at least: 3.5.1
-Tested up to: 3.6
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,9 @@ N/A
 N/A
 
 == Screenshots ==
-N/A
+1. Checkout page with Carbon Offset option.
+2. Checkout page with Carbon Offset option selected by customer.
+3. Admin - order detail page with carbon offset option included.
 
 == Changelog ==
 
