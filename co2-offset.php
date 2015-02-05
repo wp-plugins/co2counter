@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name:       CO2 Offset
- * Plugin URI:        @TODO
- * Description:       @TODO
+ * Plugin URI:        https://wordpress.org/plugins/co2counter/
+ * Description:       Allows your customers to negate the carbon emissions from the shipping of their order.
  * Version:           1.0.0
- * Author:            @TODO
- * Author URI:        @TODO
+ * Author:            CZ Digital Pty Ltd
+ * Author URI:        http://www.czdigital.com.au
  * Text Domain:       co2-offset
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
